@@ -17,9 +17,3 @@ A decentralized blockchain-based voting application built using:
 - Transaction confirmation popup
 - Decentralized smart contract
 
-## Run Project
-
-```bash
-npm install
-npx hardhat node
-npx hardhat run scripts/deploy.js --network localhost
